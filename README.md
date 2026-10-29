@@ -1,7 +1,29 @@
-- 👋 Hi, I’m @PottersGame
-- 📫 How to reach me pottersgame@gmail.com
+# Adam Hrnčiar
 
-<!---
-PottersGame/PottersGame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Automation and Measurement student at Brno University of Technology (FEKT VUT), from Slovakia.
+I design electronics and build small robots, plus the software that runs on and around them.
+
+## Now
+
+- **[hyperion-controller](https://github.com/PottersGame/hyperion-controller)**: open-source
+  all-in-one controller for 150 g antweight combat robots. RP2354A, two DRV8231A motor drivers,
+  2–4S input, ELRS/CRSF/SBUS/iBUS/PPM receiver input and an IMU on a 34 × 28 mm board (KiCad).
+- **Team Hyperion**: student combat robotics team at FEKT VUT that I co-founded. We build our
+  own control boards, motor controllers and test rigs. Currently fighting in the 150 g class in
+  the Czech combat robot league, with 1.5 kg robots next.
+- **Home automation**: reverse-engineering a Teco Foxtrot (Tecomat) installation and bridging it
+  into Home Assistant, running on a small Proxmox homelab.
+
+## Before
+
+- **CanSat Slovakia 2026, national finalist** (team HYPERION): a CanSat that deploys quadcopter
+  arms after release and uses camera-based ArUco detection to land on a target.
+  [Website](https://hyperion.potter.software)
+- Ran a battlebot club for younger students at my high school; designed and soldered five
+  ESP32-C6 antweight robots for it.
+
+## Tools
+
+Electronics: KiCad, PCB design, motor control, ESP32, RP2040/RP2350, FPV and ArduPilot\
+Software: C/C++, Python, Java (Fabric mods), Kotlin (Android), TypeScript\
+Other: Linux, Proxmox, Home Assistant, Tailscale, CAD and 3D printing
